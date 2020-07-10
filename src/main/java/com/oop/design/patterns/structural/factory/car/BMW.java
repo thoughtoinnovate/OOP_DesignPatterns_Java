@@ -8,7 +8,7 @@ public class BMW extends Car implements ICar {
 
 	@Override
 	public void move() {
-		System.out.println("BMW Car moves");
+		System.out.println("BMW Car moves at speed:"+this.getSpeed()+" and having number of gears:"+this.getGears());
 
 	}
 

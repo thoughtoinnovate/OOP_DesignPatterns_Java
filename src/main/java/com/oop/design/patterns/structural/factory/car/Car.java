@@ -11,4 +11,14 @@ public abstract class Car implements ICar {
 		this.gears = gears;
 	}
 
+	int getSpeed() {
+		return speed;
+	}
+
+	int getGears() {
+		return gears;
+	}
+	
+	
+
 }

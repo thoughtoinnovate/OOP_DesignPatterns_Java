@@ -8,7 +8,7 @@ public class Audi extends Car implements ICar{
 
 	@Override
 	public void move() {
-		System.out.println("Audi Car moves");
+		System.out.println("Audi Car Car moves at speed:"+this.getSpeed()+" and having number of gears:"+this.getGears());
 	}
 
 }

@@ -8,7 +8,7 @@ public class Racing extends Car implements ICar {
 
 	@Override
 	public void move() {
-		System.out.println("Racing Car moves");
+		System.out.println("Racing Car moves at speed:"+this.getSpeed()+" and having number of gears:"+this.getGears());
 
 	}
 

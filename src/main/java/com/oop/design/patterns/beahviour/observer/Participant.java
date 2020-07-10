@@ -1,8 +1,8 @@
 package com.oop.design.patterns.beahviour.observer;
 
 public class Participant implements IObserver {
-	
-	private String name;
+
+	private final String name;
 	
 	
 
