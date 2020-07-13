@@ -5,7 +5,9 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.oop.design.patterns.structural.factory.car.ICar;
+import com.oop.design.patterns.creational.factory.abstrct.BMWCarAbstractFactory;
+import com.oop.design.patterns.creational.factory.abstrct.BMWFactoryImpl;
+import com.oop.design.patterns.creational.factory.car.ICar;
 
 public class BMWCarAbstractFactoryTest {
 

@@ -1,4 +1,4 @@
-package com.oop.design.patterns.structural;
+package com.oop.design.patterns.creational;
 
 import java.io.Serializable;
 

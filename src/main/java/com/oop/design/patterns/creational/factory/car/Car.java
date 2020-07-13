@@ -1,4 +1,4 @@
-package com.oop.design.patterns.structural.factory.car;
+package com.oop.design.patterns.creational.factory.car;
 
 public abstract class Car implements ICar {
 

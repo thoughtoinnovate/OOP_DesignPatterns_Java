@@ -1,7 +1,7 @@
-package com.oop.design.patterns.structural.factory;
+package com.oop.design.patterns.creational.factory;
 
-import com.oop.design.patterns.structural.factory.car.BMW;
-import com.oop.design.patterns.structural.factory.car.ICar;
+import com.oop.design.patterns.creational.factory.car.BMW;
+import com.oop.design.patterns.creational.factory.car.ICar;
 
 /***
  * concrete factory class for bmw car

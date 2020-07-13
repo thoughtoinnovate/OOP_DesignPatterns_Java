@@ -1,7 +1,7 @@
-package com.oop.design.patterns.structural.factory;
+package com.oop.design.patterns.creational.factory;
 
-import com.oop.design.patterns.structural.factory.car.Audi;
-import com.oop.design.patterns.structural.factory.car.ICar;
+import com.oop.design.patterns.creational.factory.car.Audi;
+import com.oop.design.patterns.creational.factory.car.ICar;
 
 /**
  * Concrete factory class for audi car

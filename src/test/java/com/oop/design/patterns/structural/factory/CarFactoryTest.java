@@ -3,7 +3,10 @@ package com.oop.design.patterns.structural.factory;
 
 import org.junit.Test;
 
-import com.oop.design.patterns.structural.factory.car.ICar;
+import com.oop.design.patterns.creational.factory.BMWCarFactory;
+import com.oop.design.patterns.creational.factory.ICarFactory;
+import com.oop.design.patterns.creational.factory.RacingCarFactory;
+import com.oop.design.patterns.creational.factory.car.ICar;
 
 public class CarFactoryTest {
 
